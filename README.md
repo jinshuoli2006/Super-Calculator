@@ -1,4 +1,4 @@
-# Super Math Suite 2025
+# Math Suite
 
 A modern, modular Python application for advanced mathematics, built with PyQt6 and NumPy.
 
